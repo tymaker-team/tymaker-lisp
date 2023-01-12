@@ -12,3 +12,8 @@ sudo apt install clisp
 brew install clisp
 ```
 Read [instructions for getting Homebrew](https://brew.sh)
+## Running
+You can use `clisp` to run the file. No compilation is necessary.
+```console
+clisp thxgen.lisp
+```
